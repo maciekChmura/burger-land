@@ -2,7 +2,7 @@
 
 ## Working deployed app:
 
-[app on netlify](https://burger-land-mch.netlify.app/)
+[app on Cloudflare pages](https://burger-land.pages.dev/)
 
 ## High level diagram of the user flow:
 
