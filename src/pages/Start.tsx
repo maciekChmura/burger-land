@@ -25,6 +25,7 @@ const Start = () => {
             mode="single"
             selected={date}
             onSelect={(selectedDate) => setDate(selectedDate ?? new Date())}
+            disabled={{ before: new Date() }}
             className="mb-6 rounded-md border"
           />
           <h3 className="text-h3">How many people?</h3>
